@@ -265,42 +265,6 @@ This bot works only if your Instagram is in [English](https://help.instagram.com
 3. now that you have all the requirements you have to configure the whole thing by [following this guide](https://docs.gramaddict.org/#/configuration)
 4. now you're done, and you can finally start the bot: `python3 run.py --config accounts/yourusername/config.yml` or `gramaddict run --config accounts/yourusername/config.yml`
 
-Failed? [Check this out!](https://docs.gramaddict.org/#/quickstart?id=troubleshooting)
-
-# Bot crashes, what should I do?
-The script isn't perfect and may fail sometimes. If this is the case you can open a ticket on our [discord channel](https://discord.gg/NK8PNEFGFF). In that way you won't share with anyone your Instagram account name 😈. We'll be very happy to help you!
-
-# WOW! You dedicated so much time to this project! Why you did that for free??
-Well, we used to be in three a long time ago but suddenly my two friends left. This has been an opportunity for me to improve my skills in Python and that's why I didn't leave the project and keep maintaining it.
-But of course donations are very welcome, so if you think I did a great job you can buy me a beer :)
-
-
-<a  href="https://www.buymeacoffee.com/mastrolube"  target="_blank"><img  src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"  hspace="10" alt="Buy Me A Coffee"  style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  ></a>
-
-# Can I do something to make this project grown?
-On GitHub there is a `star system` which indicates how good a project is. If you like this project it will be amazing if you can press the little star at the top! ⭐
-# Contributors
-
-This project exists thanks to all of our Contributors [[Contribute](https://docs.gramaddict.org/#/contributing)].
-
-<a href="https://github.com/gramaddict/bot/graphs/contributors"><img src="https://opencollective.com/gramaddict/contributors.svg?width=890&button=false" /></a>
-
-<br />
-
-# Backers
-
-Thank you to everyone that supports us financially! 🙏 [[Become a backer](https://opencollective.com/gramaddict#backer)]
-
-<a href="https://opencollective.com/gramaddict#backers" target="_blank"><img src="https://opencollective.com/gramaddict/backers.svg?width=890"></a>
-<br />
-
-# Talk botty with us
-
-<p>
-  <a href="https://discord.gg/NK8PNEFGFF">
-    <img hspace="3" alt="Join us on Discord" src="https://github.com/GramAddict/bot/raw/master/res/discord.png" height=84/>
-  </a>
-</p>
 
 ---
 
