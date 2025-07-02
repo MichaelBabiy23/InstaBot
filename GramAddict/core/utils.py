@@ -745,8 +745,10 @@ def inspect_current_view(user_list) -> Tuple[int, int]:
     return the number of users and each row height in the current view
     """
     user_list.wait()
+    random_sleep(1, 2)
     lst = [item.get_height() for item in user_list if item.wait()]
     if not lst:
+        logger.debug("No interactable users found in the current view after waiting.")
         raise EmptyList
     row_height, n_users = Counter(lst).most_common()[0]
     logger.debug(f"There are {n_users} users fully visible in that view.")
