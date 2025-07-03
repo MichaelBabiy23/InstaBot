@@ -21,3 +21,7 @@ Pipfile.lock
 *.ini
 *.db
 /accounts
+run.py
+run_bot.sh
+run_bot_no_scrape.sh
+simple_bot.py
